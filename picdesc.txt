@@ -1,0 +1,42 @@
+bamboo
+Shelter surrounded by bamboo shoots located between JH Block F and SH Block E.
+
+bball
+Basketball court located adjacent to the canteen.
+
+bell
+Shelter with a bell located at SH Block D.
+
+canteen
+Canteen has handphone charging stations in addition to the 16 food stalls.
+
+canteenswing
+Swing located near the entrance of the canteen.
+
+gslswing
+Swing located outside the General Science Labs in JH Block F.
+
+hostellocker
+Lockers located outside the hostel.
+
+paradesq
+Parade square where flag-raising ceremony is held every morning.
+
+platform
+Elevated platform next to the basketball court.
+
+podium
+Podium situated in the parade square.
+
+scoutswing
+Swing located near the Scouts Room in SH Block D.
+
+track
+Seats located by the track.
+
+zxy
+Zheng Xin Yuan, the landmark of Dunman High, with a statue of Confucius.
+
+zxyshelter
+Shelter located behind the Zheng Xin Yuan.
+
