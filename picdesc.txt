@@ -40,3 +40,51 @@ Zheng Xin Yuan, the landmark of Dunman High, with a statue of Confucius.
 zxyshelter
 Shelter located behind the Zheng Xin Yuan.
 
+q15 pac
+The Performing Arts Centre (PAC) hosts various concerts, notably during the biennial Kaleidoscope event that showcases the Arts scene in our school.
+Performing Arts Centre (PAC)
+Auditorium
+Media Resource Library (MRL)
+Music Atrium
+
+q16 blockg
+Open space at Junior High (JH) Block G which can be used to host events.
+Junior High (JH) Block G
+Junior High (JH) Block F
+Cafe
+Media Resource Library (MRL)
+
+q17 lt
+The Lecture Theatres (LT) provide a conducive space for lectures and talks. 
+Lecture Theatres 3/4 (LT3/4)
+Lecture Theatres 1/2 (LT1/2)
+Performing Arts Centre (PAC)
+Student Services Centre (SSC)
+
+q18 mrl
+The Media Resource Library (MRL) offers a wide range of books and resources to enrich students’ learning, and also includes an Art Gallery which showcases artworks done by our students.
+Media Resource Library (MRL)
+Podium
+Multi-purpose Hall (MPH)
+General Office (GO)
+
+q19 cafe
+The Cafe provides freshly baked goods and desserts daily.
+Cafe
+Canteen Snacks Store
+Canteen Dessert Store
+Hostel Canteen
+
+q20 heritage
+The Heritage Room provides visitors with an immersive experience to learn about the history and culture of our school.
+Heritage Room
+Bicultural Studies Programme (BSP) Room
+Chinese Language Elective Programme (CLEP) Room
+Alumni Room
+
+q21 ssc
+The Student Services Centre (SSC) is a one-stop location that caters to the needs of students, including services such as loaning of blazers, collection and submission of important documents, lost and found corner etc.
+Student Services Centre (SSC)
+General Office (GO)
+Multi-purpose Hall (MPH)
+Performing Arts Centre (PAC)
